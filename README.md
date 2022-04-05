@@ -1,3 +1,5 @@
+# Redux Contacts App [Live Server](https://redux-contacts-app-berke.surge.sh/)
+![contacts-app](./src/contacts-app.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
