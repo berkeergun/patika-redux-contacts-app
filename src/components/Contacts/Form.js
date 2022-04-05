@@ -42,7 +42,7 @@ function Form() {
             marginBottom="2"
             focusBorderColor="lime"
             _placeholder={{ opacity: 0.74, color: 'white' }}
-            maxLength={22}
+            maxLength={20}
           />
         </InputGroup>
         {/* <br /> */}
@@ -59,7 +59,7 @@ function Form() {
             onChange={(e) => setNumber(e.target.value)}
             focusBorderColor="lime"
             _placeholder={{ opacity: 0.74, color: 'white' }}
-            maxLength={22}
+            maxLength={20}
 
           />
         </InputGroup>

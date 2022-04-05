@@ -49,6 +49,7 @@ function EditForm({ contact }) {
             marginBottom="2"
             focusBorderColor="lime"
             _placeholder={{ opacity: 0.74, color: 'white' }}
+            maxLength={20}
 
           />
         </InputGroup>
@@ -71,6 +72,7 @@ function EditForm({ contact }) {
             onChange={(e) => setNumber(e.target.value)}
             focusBorderColor="lime"
             _placeholder={{ opacity: 0.74, color: 'white' }}
+            maxLength={20}
 
           />
         </InputGroup>
